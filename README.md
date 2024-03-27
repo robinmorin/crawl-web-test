@@ -61,7 +61,7 @@ Given the following endpoints:
        "id": "yh4S5zwe"  
      }
      ```
-  Id returned is ramdom code for search. Check [SearchCodeUtils](src/main/java/com/crawler/web/utils/SearchCodeUtils.java)
+  Id returned is ramdom code for search. Check [SearchCodeUtils](src/main/java/com/personal/backend/utils/SearchCodeUtils.java)
 
 <br>   
 
